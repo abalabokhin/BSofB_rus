@@ -19,6 +19,11 @@ LANGUAGE ~Simplified Chinese (translation: Lewis Liu)~
          ~BloodiedStingsOfBarovia\languages\schinese\setup.tra~
          ~BloodiedStingsOfBarovia\languages\schinese\JournalEntries.tra~
 
+LANGUAGE ~Russian (translation: Paladin84 and Scheele)~
+         ~russian~
+         ~BloodiedStingsOfBarovia\languages\russian\setup.tra~
+         ~BloodiedStingsOfBarovia\languages\russian\JournalEntries.tra~
+
 //START
 
 BEGIN @1
