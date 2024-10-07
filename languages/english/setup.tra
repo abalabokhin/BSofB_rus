@@ -1,0 +1,938 @@
+
+@1    = ~The Bloodied Stings of Barovia - a dark Ravenloft adventure for Baldur's Gate 2 EE~
+@2    = ~The original writing is scratched. What the sign now says is: "The only way is into the mist."~
+@3    = ~It looks like something ate all the flesh that was left on these bones.~
+@4    = ~Bare bones lie calmly. It seems like the skull is observing you, though.~
+@5    = ~Some rocks block the road.~
+@6    = ~Everything inside burned down. The fire damaged the walls, and it would be dangerous to enter this old house. Besides, you do not see anything of value in there.~
+@7    = ~There is no real lock, only a symbol of a hand.~
+@8    = ~There is no way to open this door. The lock looks as if it was melted and then smashed.~
+@9    = ~Dark clouds. Crooked trees. A cold mist that permeates your skin. This is what welcomes you into this land, predatory in its nature. As you set foot in it, it pulls you deeper and deeper into its realm. You are being ripped away from wherever you came from, with no mercy. I have heard this story many times before. And I have seen it with my own eyes.
+
+The first few steps into this world echo with pain inside you. You walk an unknown path, unsteady, as wet clay splashes under your feet. You are trying to understand where you have landed, but the place offers no answers. Instead, it poses new questions and lays new layers of gloom, pressing you down into the ground.
+
+What comes next are the cries. The howling. The cawing of ravens and crows that takes over your heart and mind. Finally, a new sound pierces through the cacophony: a distinct buzz.
+
+I have seen others who woke up in this world. And I know what comes next. The feeling. One that can only be described as... dread.~ [L#RVINTR]
+@10   = ~Necromancer~
+@11   = ~Geist~
+@12   = ~Bee-Covered Werewolf~
+@13   = ~Bloodlusty Maggot~
+@14   = ~Will O'Mist~
+@15   = ~Buzzing Swarm~
+@16   = ~*buzz*~ [L#RVBUZZ]
+@17   = ~Tâneasr~
+@18   = ~Sjerhan~
+@19   = ~Gaseous Form~
+@20   = ~Little Borniv~
+@21   = ~Child~
+@22   = ~Misty~
+@23   = ~Fog Cadaver~
+@24   = ~Servant's Ghost~
+@25   = ~Raven~
+@26   = ~*caw caw*~ [L#RVRAVE]
+@27   = ~Bat~
+@28   = ~Necrotic Honey~
+@29   = ~Viâsz, the Loup Garou~
+@30   = ~Angered Boar~
+@31   = ~*grunts*~ [L#RVBOA1]
+@32   = ~*oinks*~ [L#RVBOA2]
+@33   = ~Lady of the Bones Buried in Mud~
+@34   = ~*sings*~ [SIRIN05]
+@35   = ~Blacksmith's Ghost~
+@36   = ~Wanderer~
+@37   = ~Barovian Bat~
+@38   = ~Snake~
+@39   = ~Tree and Vines~
+@41   = ~The Memory of Sindk~
+@42   = ~The Memory of Bvol~
+@43   = ~The Memory of Samvina~
+@44   = ~Statue~
+@45   = ~Skeletal Priest~
+@46   = ~Undead Knight~
+@47   = ~Wax Golem~
+@48   = ~Crooked Death's Head Tree~
+@49   = ~Dreadful Head~
+@50   = ~Bloodied Treant~
+@51   = ~Evemorî Ernica-Bloodjacket~
+@52   = ~Venirlaw Bloodjacket~
+@53   = ~Zombie Doe~
+@54   = ~Vampire's Lair~
+@55   = ~Dead Blacksmith's Wares~
+@56   = ~Killed by Smoke~
+@57   = ~Call Child's Ghost~
+@58   = ~Call Child's Ghost
+This ability allows you to call a ghost of a child, a friend of a ghost-boy you met in Barovia. The girl is now your friend and will fight on your side. Her attacks have a low chance of draining levels, and she has limited access to spells. 
+
+However, if you let her fall too many times, the ghost will leave you forever, and you will lose the ability to call her.~
+@59   = ~Call Child's Ghost - ability removed~
+@60   = ~Lesser Summon Insects~
+@61   = ~Burning Perfume~
+@62   = ~Blood Honey~
+@63   = ~Blood Honey
+(Necromancy)
+
+Level: 5
+Range: 0
+Duration: Special
+Casting Time: 2
+Area of Effect: The caster
+Saving Throw: None 
+
+Casting the Blood Honey spell requires a small blood sacrifice. The caster deals 1d4 damage to themselves. This sacrifice allows one to summon one blood comb of dark, not-too-sweet, metallic-tasting honey. When eaten, it deals another 1d4 damage to the eater, however, it also reduces spellcasting time by 2 points for two rounds and by 1 point for three following rounds. It also provides a +3 bonus to caster level and a +3 bonus to Saving Throws vs. Necromancy for all five rounds.
+
+The initial damage to the eater will be healed along with other damage, as after two rounds, the eater heals 3d4+4 damage. Vampires regain twice as much health that way.
+
+If the honey isn't eaten in 16 hours, it is destroyed.~
+@64   = ~Ring - bat~
+@65   = ~Ring - bee~
+@66   = ~Ring - mist~
+@67   = ~Tree's Attack~
+@68   = ~Tree's Animation~
+@69   = ~Necromancer's Journal~
+@70   = ~This is a journal of the necromancer you encountered in one of the tombs of the Athkatla Graveyard. Only some of the entries remain legible.
+
+Ches 20th 1364 DR
+I understand now. The Dread. The Powers. The Prison. And everything they constitute combined. I feel the urge to find it, to reach the Prison, to feel it! I shall commence my preparations immediately. It may take years, but I won't give up.
+
+Ches 2nd 1366 DR
+It's been almost two years, but I'm still not giving up. And I have clearly made progress. I may know how to pass the mist, how to understand the Prison. Once I reach it, I will be able to harness its power. Unless... I decide to stay. To study it. To become like the mighty Lark Lord...
+
+Marpenoth 13th 1367 DR
+I know where to look for the last element, a book that describes the right symbols. It's in Amn. I should go there and... perhaps I should no longer delay the Opening. Perhaps that is where I should open the door to the Prison. There, however, may be others, not just Von Zarovich... It might be worth meeting them. Maybe they will teach me...~
+@71   = ~Letter~
+@72   = ~Dear Delique, 
+
+It's my turn to stand guard, and I'm writing this letter, hoping the thought of you will keep me awake. The whole team is doing their best to watch each other's back, but... I feel so tired. And I miss you so much. Sleep is tempting me, and as I'm drifting away, I go straight into your arms, my love. 
+
+I remember how we talked about starting something of our own. Our little shop. This will be my last adventure. No more wandering. I just need to survive the journey through the dark forest, endure a few more night watches, and... we'll see each other again.
+
+Always yours,
+Samvina~
+@73   = ~Notes on Barovia~
+@74   = ~It took me a while to understand what this place was... It's not easy to digest; it's a sort of prison after all. We're here because of Strahd von Zarovich; because of him, we need to exist in this place of dread and mists.
+
+The mists that surround us are the prison bars, and I am not sure if they can be broken. Perhaps they may be bent for a moment, but I am certain they will regenerate. And it's quite clear only those with exceptional powers will be able to leave this accursed place behind, definitely not any common person! We are bound to live here surrounded by beasts that feast on our flesh and sanity.
+
+Strahd rules these lands, and with such a creature as our "master", we need no enemies.
+
+I have no means to confirm it, but I heard there are others like him. Other masters. And obviously, their servants.~
+@75   = ~Helmet~
+@76   = ~Samvina's Tiara~
+@77   = ~This tiara used to belong to Samvina, an adventurer who was planning to settle down with her beloved one, Delique. It looks like she died on her way back home, leaving Delique with nothing but mourning.
+
+STATISTICS:
+
+Charge abilities:
+– Haste twice per day
+
+Equipped abilities:
+– Immunity to Slow
+
+Weight: 1~
+@78   = ~Tâneasr's Key~
+@79   = ~This key opens Tâneasr's chest.
+
+STATISTICS:
+
+Weight: 0~
+@80   = ~Tâneasr's Rope~
+@81   = ~This rope used to belong to Tâneasr. Perhaps with its help, we'll be able to fix the old well.
+
+STATISTICS:
+
+Weight: 5~
+@82   = ~Sturdy Silver Key~
+@83   = ~This key is quite solid and either coated with or made entirely of silver. It was found in the hand of a corpse at the bottom of a well.
+
+STATISTICS:
+
+Weight: 0~
+@84   = ~Vampire's Key~
+@85   = ~This key used to belong to a vampire from Barovia.
+
+STATISTICS:
+
+Weight: 0~
+@86   = ~Ring~
+@87   = ~Ring of the Unseen Servant~
+@88   = ~Many nobles and rich people would never want to do as much as look their servants in the eye. Such servants might be given rings like this one to let them remain unseen by their masters while they fulfill their ungrateful duties. 
+
+STATISTICS:
+
+Equipped abilities:
+– Dexterity: +1
+– Charisma: +1
+– Hide in Shadows: +15%
+
+Weight: 0~
+@89   = ~Amulet~
+@90   = ~Bloodmoon of Ravenloft~
+@91   = ~This magic amulet is known as the Bloodmoon of Ravenloft. It's a set of blood-red pearls and a metal pendant. It is said to protect those who wear it against the living... but for a price some may not be ready to pay.
+
+Legend has it that this amulet used to belong to a vampire, a former merchant. When he transformed into a child of the night, he decided to kill all his fellow merchant guild members for all the mockery they made him suffer throughout the years. 
+
+STATISTICS:
+
+Equipped abilities:
+– Maximum Hit Points: -6%
+– Armor Class: +1, +3 vs. Living
+– Saving Throws: +1, +3 vs. Living
+
+Weight: 1~
+@92   = ~Boots~
+@93   = ~The Mistlurers~
+@94   = ~These boots are very comfortable. They allow the wearer to move faster, as if they were wearing the famous boots of speed. Furthermore, they cover the wearer with mist, making them harder to hit. However, these benefits come with a price: the boots lower the user's strength and cold resistance, even if only by a bit.
+
+STATISTICS:
+
+Equipped abilities:
+– Doubles movement rate
+– Armor Class: +1
+– Strength: -1
+– Cold Resistance: -5%
+
+
+Weight: 1~
+@95   = ~Skull~
+@96   = ~Bloodied Biter~
+@97   = ~This weird skull is looking at you. Does it want something? 
+
+STATISTICS:
+
+Weight: 3~
+@98   = ~This item is known under the name "Bloodied Biter" for a reason - it may actually bite its enemies, just like some vampires do.
+
+STATISTICS:
+
+Charge abilities:
+– May cast Drain Blood once per day: the ability will drain the target of 1-4 Constitution and knock the target unconscious for 5 rounds (Save vs. Death to negate)
+
+Weight: 3~
+@99   = ~Dart~
+@100  = ~Barovian Mosquito +2~
+@101  = ~This item was created by a cruel enchantress from Barovia: Viyka Capskana. She is believed to have made the weapon to fight a man who broke her heart. Her reasoning may seem petty, and the weapon doesn't strike one as impressive, but it is more powerful than it looks.
+
+STATISTICS:
+
+Combat abilities:
+– Returns to the wielder's hand when thrown
+– Enchantment vs. Humanoids: +4
+– Damage vs. Males: +1 (piercing)
+– There is a 50% chance of dealing 1d2 Acid Damage upon a successful hit 
+
+THAC0: +2
+Damage: 1d3+2 (missile)
+Speed Factor: 0
+Proficiency Type: Dart
+Type: One-handed
+
+Weight: 0~
+@102  = ~Katana~
+@103  = ~Segmented Misery +4~
+@104  = ~This katana is segmented and, while it can deal additional damage because of its construction, tearing the flesh of enemies, it's also more fragile and may break into pieces, leaving the wielder empty-handed.
+
+STATISTICS:
+
+Combat abilities:
+– There is a 1% chance that the item will be destroyed upon a successful hit
+– Each successful hit has a 14% chance of dealing 2d8+2 additional slashing damage
+
+Equipped abilities: 
+– Crushing resistance: +5%
+
+THAC0: +4
+Damage: 1d10+4 (slashing)
+Speed Factor: 2
+Proficiency Type: Katana
+Type: One-handed
+Requires:
+ 6 Strength
+
+Weight: 4~
+@105  = ~Plate~
+@106  = ~Dark Amused Skeleton +3~
+@107  = ~This dark plate armor has a bizarre skeletal face engraved on the front. The way it grins and stares may give some enemies goosebumps. What's interesting is that most skeletons feel they must return the smile and hesitate before attacking those who wear the armor.
+
+STATISTICS:
+
+Equipped abilities: 
+– Armor Class bonus vs. Skeletons: +2
+– Acid resistance: +10%
+
+Armor Class: 0 (-3 vs. slashing)
+Requires:
+ 13 Strength
+
+Weight: 30~
+@108  = ~Crossbow~
+@109  = ~Oraşnouian Heavy Crossbow +1~
+@110  = ~A crossbow is a bow mounted crosswise on a wooden or metal shaft, the latter called a tiller. The bow is usually made of ash or yew. The crossbow fires a quarrel (also called a bolt). This heavy crossbow has been enchanted.
+
+This specific crossbow was created in the village Oraşnou of Barovia. It deals additional acid damage.
+
+STATISTICS:
+
+THAC0: +1
+Damage: +3 (missile), +1 (acid)
+Speed Factor: 9
+Proficiency Type: Crossbow
+Type: Two-handed
+Requires:
+ 12 Strength
+
+Weight: 12~
+@111  = ~Bastard Sword~
+@112  = ~Raven's Dark Gift +3~
+@113  = ~The location of this sword was disclosed to you by a raven from Barovia. Surprisingly, the sword looks as if its creator was inspired by a raven... Is it possible the raven was actually the one who hid this item, not simply found it?
+
+STATISTICS:
+
+Equipped abilities:
+– Intelligence: +1
+– Save vs. Death: +3
+
+Charge abilities:
+– May cast Blindness three times per day
+
+Combat abilities: 
+– Instantly kills zombies
+
+THAC0: +3
+Damage: 2d4+3 (slashing)
+Speed Factor: 7
+Proficiency Type: Bastard Sword
+Type: One-handed
+Requires:
+ 11 Strength
+
+Weight: 9~
+@114  = ~Belt~
+@115  = ~Cherries of the Dead~
+@116  = ~This belt, known as the Cherries of the Dead, is made from fine leather and adorned with red dangling gems. The gems must have inspired the belt's name.
+
+It is believed this item was created by a couple in love, Barghal and Jalio, followers of the Eternal Lover. Later, the belt was used by a skilled woman, Gho'Szya, a wanderer in the mist. 
+
+STATISTICS:
+
+Equipped abilities:
+– Luck: +1
+– Arcane Caster Level: +1 (mages only)
+– Armor Class: +1 (clerics only)
+
+Special: cleric/mages receive both bonuses
+
+Weight: 2~
+@117  = ~Cloak~
+@118  = ~Strahd's Night Cloak~
+@119  = ~Supposedly, this powerful cloak was once used by Strahd von Zarovich, a count and dark lord of the valley of Barovia. While the cloak wasn't his choice for daytime "adventures", as it doesn't offer enough protection against the sun, it used to be his choice for night hunts. 
+
+It is believed that he gave the cloak to a couple of his subjects, the Bloodjackets.  
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +1, +2 at night 
+– Saving Throws: +1
+– When hit, there is a 5% chance of taking control over an undead enemy of any type (if the undead has 3 Hit Dice or less, there is no Saving Throw allowed; however if they have 4 Hit Dice or more, a Save vs. Spell is allowed to negate the effect. The effect lasts 2 turns).
+
+Charge abilities:
+– May change into a bat for 1 round three times per day: it sets Base Armor Class to -8, physical resistances to 95%, and improves moving speed greatly, allowing the wearer to escape quickly.
+
+Weight: 3~
+@120  = ~Bite~
+@121  = ~The bat form allows you to avoid attacks and escape from tense situations. 
+
+STATISTICS:
+
+Damage: 1d2 (transfers to the attacker)
+Number of Attacks: 3
+Base Armor Class: -8
+Physical Resistances: 95%
+Movement Speed: 22~
+@122  = ~Scimitar~
+@123  = ~Four Hundred Teeth +3~
+@124  = ~This scimitar is known as Four Hundred Teeth. Legends say that its name comes from the exact number of teeth used to create this weapon, all joined together by powerful necrotic magic.
+
+STATISTICS:
+
+Combat abilities:
+– There is an 8% chance of dealing 1d2 additional piercing damage upon a successful hit
+– There is an 8% chance of dealing 1d2 additional acid damage upon a successful hit
+– There is a 3% chance of activating both of the above effects upon a successful hit
+
+Equipped abilities:
+– Protection from Level Drain
+
+THAC0: +3
+Damage: 1d8+3 (slashing)
+Speed Factor: 2
+Proficiency Type: Scimitar/Wakizashi/Ninjatō
+Type: One-handed
+Requires:
+ 10 Strength
+
+Weight: 3~
+@125  = ~Robe~
+@126  = ~The Sweetest Misery~
+@127  = ~This robe previously belonged to Evemorî Ernica-Bloodjacket, Barovia's "Queen Bee", a powerful mage who controlled bees enhanced with necrotic energy. The bees used to feed on the flesh of local humanoids and fauna as well as leverage them as incubators for their larvae.
+
+The robe exudes similar energy. It is truly powerful, but it looks like it also feeds on its wearer. Fueled by its user's constitution, it proves an extremely effective artifact.
+
+STATISTICS:
+
+Charge abilities:
+– May cast Summon Insects once per day
+
+Equipped abilities:
+– Armor Class: 4
+– Improves casting speed by 3
+– Charisma: +1
+– Constitution: -1
+– May only be removed with a Remove Curse spell
+
+Combat abilities:
+– When hit by an enemy, there is a 5% chance that the robe will release insects that will target the nearest foe, dealing 1 point of damage every 2 seconds, applying a penalty of -2 to THAC0 and Armor Class, and causing a 50% chance of spell failure (lasts 3 rounds; Saving Throw vs. Breath -4 negates) 
+
+
+Weight: 3~
+@128  = ~Beautiful Strangler~
+@129  = ~This cursed amulet has just one aim: to strangle you. Those who find a way to return from wherever it took them, will return with knowledge whispered to them by death itself... as long as they hold onto the amulet.
+
+It is said that some particularly lore-thirsty individuals allowed the amulet to kill them, however, first ensuring their return, resembling the way a shaman calls a victim's spirit back to their body.
+
+STATISTICS:
+
+Special abilities:
+– When initially donned, the amulet kills the wearer. If they are brought back to life (or possess special powers that prevented their death in the first place), the amulet extends its benefits to the wearer without further attempts to strangle them. If someone else puts the amulet on, the process is repeated. The undead are immune to the Strangler's curse.
+
+Equipped abilities:
+– Lore: +20
+– Charisma: +2
+– Save vs. Death: +3
+– May only be removed with a Remove Curse spell
+
+Weight: 1~
+@130  = ~Bracers~
+@131  = ~Misery and Obscenity~
+@132  = ~These bracers are known as Misery and Obscenity. They are cursed and were made only to humiliate a Barovian nobleman. Some say that he fell for the bait, put on the bracers, and the shame and misery they brought onto him... became his doom.
+
+STATISTICS:
+
+Equipped abilities:
+– Charisma: -3
+– May only be removed with a Remove Curse spell
+
+Weight: 2~
+@133  = ~Chain Mail~
+@134  = ~Chained Misfortune +1~
+@135  = ~Chain mail is made of interlocking metal rings. It is always worn over a layer of padded fabric or soft leather to prevent chafing and lessen the impact of blows. 
+
+This specific chain mail was clearly cursed by some kind of dark magic. While the armor can still protect its user, it is also believed to bring bad luck.
+
+STATISTICS:
+
+Equipped ability:
+– Luck: -2
+– May only be removed with a Remove Curse spell
+
+Armor Class: 4 (2 vs. slashing, 6 vs. crushing)
+Requires:
+ 8 Strength
+
+Weight: 20~
+@136  = ~This weird honey doesn't really smell sweet...
+
+STATISTICS:
+
+Weight: 0~
+@137  = ~This is a portion of blood honey. It has a sweet, yet metallic scent.
+
+STATISTICS:
+
+Special: Deals 1d4 magic damage, but the eater gains a bonus of +1 to Casting Speed, +3 to Caster Level, and +3 to Saves vs. Necromancy for 3 rounds. Furthermore, after 2 rounds, the eater regains 3d4 + 4 Hit Points (vampires regain twice as much).
+
+Caution: If created by a spell, unused blood honey disappears after 16 hours.
+
+Weight: 0~
+@138  = ~Glasses~
+@139  = ~Broken Glasses of Hope~
+@140  = ~Glasses are usually worn by those with vision impairments. Items of this sort are quite expensive.
+
+STATISTICS:
+
+Weight: 0~
+@141  = ~These glasses were once blessed and represented a token of hope for those who wore them while walking even the darkest paths... But they are now broken.
+
+STATISTICS:
+
+Charge abilities:
+– Infravision three times per day
+
+Equipped abilities:
+– Wisdom: +1
+– Armor Class vs. Missiles: +1
+– Each successful hit performed against the user of these glasses lowers their morale by 1 for 1 turn
+
+Weight: 0~
+@142  = ~Mirror~
+@143  = ~Wooden Mirror of Roses~
+@144  = ~This is a mirror. It allows you to look at yourself and reflects light.
+
+STATISTICS:
+
+Weight: 1~
+@145  = ~This beautiful mirror is clearly enchanted. If the gossips are correct, it may summon rose vines capable of grasping a target and piercing into their flesh.
+
+STATISTICS:
+
+Charge abilities:
+– Twice per day, it may summon rose vines that will grasp an enemy, dealing 1d6+2 piercing damage, and then clench them, dealing 1d6+2 crushing damage and another 1 acid damage. Furthermore, the target suffers a penalty of -2 to their movement speed for the next two rounds
+
+Weight: 1~
+@146  = ~Blood-Stained Handkerchief~
+@147  = ~This Blood-Stained Handkerchief most likely contains the blood of one of the Bloodjackets.
+
+STATISTICS:
+
+Weight: 0~
+@148  = ~Perfume~
+@149  = ~The "Burning Petals" Perfume~
+@150  = ~This bottle contains unusual perfume. Its scent sends a burning sensation up your nostrils.
+
+STATISTICS: 
+
+Weight: 1~
+@151  = ~This magic perfume is believed to set all senses on fire... along with the flesh.
+
+STATISTICS:
+
+Charge abilities:
+– Once per day, it may summon a fiery cloud that deals 4d4+4 fire damage to everyone in the area of effect (a successful Save vs. Spell halves the damage)
+
+Weight: 1
+~
+@152  = ~Bizarre Poison~
+@153  = ~There is something unique about this poison. Perhaps it will prove to be of use.
+
+STATISTICS:
+
+Weight: 1~
+@154  = ~Human hand~
+@155  = ~This hand belonged to a human. They must have become the prey of a wild animal.
+
+STATISTICS:
+
+Weight: 1~
+@156  = ~Bones of the Fallen~
+@157  = ~These are the bones of the fallen ones killed by a loup garou. Once the predator devoured its victims, their bones ended up in a small pit in the monster's cave, covered with rainwater.
+
+You have a feeling those bones... stare at you.
+
+STATISTICS:
+
+Weight: 20~
+@158  = ~Speak with the Bones~
+@159  = ~Broken Sword~
+@160  = ~This broken weapon won't be of any use in battle. Perhaps it was a great blade once, but today... it's just rubbish.
+
+STATISTICS:
+
+Weight: 1~
+@161  = ~Broken Shield~
+@162  = ~This once fine shield now lies in a mangled heap of wood and metal before you. It's broken and will be of no use in battle.
+
+STATISTICS:
+
+Weight: 5~
+@163  = ~Broken Armor~
+@164  = ~This suit of armor, once a prized possession, is no longer fit for even a xvart. A pity, as it might have been truly wonderful in its glory days.
+
+STATISTICS:
+
+Weight: 20~
+@165  = ~Broken Object~
+@166  = ~This object was shattered, and it's hard to determine what it once was.
+
+STATISTICS:
+
+Weight: 5~
+@167  = ~Rusty Barovian Arrow~
+@168  = ~The flight arrow, as its name implies, is built for distance. These are lightweight arrows and are often used for hunting. Most arrows are made of ash or birch and are thirty to forty inches long.
+
+These arrows are covered with rust.
+
+STATISTICS:
+
+Combat abilities:
+– Each successful hit has a 90% chance of dealing an extra 1 of poison damage
+
+Damage: 1d6 -1 (missile)
+Launcher: Bow
+
+Weight: 0~
+@169  = ~Rusty Barovian Bolt~
+@170  = ~Quarrels or bolts are the ammunition fired by crossbows regardless of the weapon's size.
+
+These bolts are covered with rust.
+
+STATISTICS:
+
+Combat abilities:
+– Each successful hit has a 90% chance of dealing an extra 1 of poison damage
+
+Damage: 1d8 -1 (missile)
+Launcher: Crossbow
+
+Weight: 0~
+@171  = ~This broken weapon won't be of any use in battle. Perhaps it was a great blade once, but today... it does not make anyone hold their breath in awe.
+
+However, there is a chance this sword can still be fixed. It was magical, and perhaps thanks to the enchantment, it's not completely shattered.
+
+STATISTICS:
+
+Weight: 4~
+@172  = ~Ghostly Sword~
+@173  = ~Ghostly Two-Handed Sword +2~
+@174  = ~This weapon was fixed by the dead blacksmith from Barovia. While half of its blade was shattered, the ghostly energy shaped the missing part, making it quite useful.
+
+STATISTICS:
+
+Combat abilities:
+– Strikes as a +5 weapon
+
+THAC0: +2
+Damage: 1d10+2 (slashing)
+Speed Factor: 8
+Proficiency Type: Two-handed Sword
+Type: Two-handed
+Requires:
+ 14 Strength
+
+Weight: 4~
+@175  = ~Blacksmith's Journal~
+@176  = ~This journal is filled with information about commissions, but... it also mentions the blacksmith's brother, his wife, and a man the journal owner once admired. He visited the forge often to have a chat and a drink with the blacksmith. 
+
+STATISTICS:
+
+Weight: 2~
+@177  = ~Quarterstaff~
+@178  = ~Dead Blacksmith's Staff +3~
+@179  = ~This ghostly staff is semi-transparent. It was created by a dead blacksmith from Barovia after you returned his journal to him.
+
+It should be able to hit most enemies, but it deals magic damage instead of the crushing type.
+
+STATISTICS:
+
+Equipped abilities:
+– Magic Resistance: +3%
+
+Combat abilities:
+– Strikes as a +5 weapon
+
+THAC0: +3
+Damage: 1d6+3 (magic)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 4~
+@180  = ~Plate Armor~
+@181  = ~Dead Blacksmith's Plate +1~
+@182  = ~This ghostly plate armor is semi-transparent. It was created by a dead blacksmith from Barovia after you returned his journal to him.
+
+It is much lighter than regular plate armor and does not require as much strength to wear.
+
+STATISTICS:
+
+Equipped abilities:
+– Magic Resistance: +10%
+
+Armor Class: 0 (-4 vs. slashing, -3 vs. piercing and missile)
+Requires:
+ 10 Strength
+
+Weight: 10~
+@183  = ~Large Shield~
+@184  = ~Dead Blacksmith's Large Shield +1~
+@185  = ~This ghostly shield is semi-transparent. It was created by a dead blacksmith from Barovia after you returned his journal to him.
+
+It is much lighter than regular shields and does not require as much strength to use.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +2, an extra +1 vs. missile attacks
+– Magic Resistance: +20%
+
+Requires:
+ 10 Strength
+
+Weight: 6~
+@186  = ~Two Brothers' Locket~
+@187  = ~This locket hides tiny portraits of two brothers. There's also an inscription engraved on the side: "With my brother, I can walk through all the blizzards."
+
+Another inscription says: "From Bvol, to Balagan". 
+
+It's a strange thing to find in a vampire's den.
+
+STATISTICS: 
+
+Equipped abilities:
+– Cold Resistance: +5%
+
+Weight: 0~
+@188  = ~Lock of Hair and a Note~
+@189  = ~This is a lock of hair. There's also a note that says: "Sindk, take the hair of our beloved newly-born son. It shall soothe your heart on the road. We'll be waiting."
+
+STATISTICS:
+
+Weight: 0~
+@190  = ~Rose's Memoir +3~
+@191  = ~This staff was given to you by an unusual tree you encountered in Barovia of Ravenloft after you brought it some memoirs of the dead.
+
+STATISTICS:
+
+Charge abilities: 
+– Once per day, it may summon one of the three memories, a creature of roses, that will fight for the user of this staff for 1 turn.
+
+Equipped abilities: 
+– Armor Class: +1
+– Saving Throws vs. Spells: +2
+– Piercing Damage Resistance: +50%
+
+THAC0: +3
+Melee Damage: 1d6+3 (crushing)
+Projectile Damage: 1d2+1 (fire)
+Speed Factor: 1
+Proficiency Type: Quarterstaff
+Type: Two-handed
+Requires:
+ 5 Strength
+
+Weight: 2~
+@192  = ~Sun Sigil~
+@193  = ~This sigil is marked with a symbol of the sun. Its edges and back look as if they were supposed to fit something bigger. Small markings on the surface suggest the sigil might have been pulled out of something, perhaps a bigger piece of art or some sort of panel?
+
+The inscription on this sigil says: "First comes the sun..."
+
+STATISTICS:
+
+Weight: 1~
+@194  = ~Moon Sigil~
+@195  = ~This sigil is marked with a symbol of the moon. Its edges and back look as if they were supposed to fit something bigger. Small markings on the surface suggest the sigil might have been pulled out of something, perhaps a bigger piece of art or some sort of panel?
+
+The inscription on this sigil says: "...only to be swallowed by the moonlight shadows."
+
+STATISTICS:
+
+Weight: 1~
+@196  = ~Notes~
+@197  = ~These notes mention the study of portals, even those that may reach beyond the mists of Ravenloft. However, the ritual requires some bizarre components: 
+
+- Grave dust
+- A jackdaw feather
+- A necrotic tree bark
+- A zombie doe heart
+- Barovian Bloodstar gem
+
+Once collected, the items should be brought to a place of power where such a portal was opened before, creating a link to the desired destination.
+
+STATISTICS:
+
+Weight: 0~
+@198  = ~Grave Dust~
+@199  = ~This dust was taken from an old grave.
+
+STATISTICS:
+
+Weight: 1~
+@200  = ~Jackdaw Feather~
+@201  = ~This feather might have belonged to a jackdaw.
+
+STATISTICS:
+
+Weight: 0~
+@202  = ~Death's Head Tree Bark~
+@203  = ~This bark was once part of a weird hostile tree you encountered in the realm of Ravenloft.
+
+STATISTICS:
+
+Weight: 1~
+@204  = ~Zombie Doe Heart~
+@205  = ~You cut this heart out of a zombie doe's rotting flesh.
+
+STATISTICS:
+
+Weight: 1~
+@206  = ~Barovian Bloodstar Gem~
+@207  = ~If you are right, this may be a Barovian Bloodstar gem. It has a very deep red color.
+
+STATISTICS:
+
+Weight: 1~
+@208  = ~Scissors~
+@209  = ~Scissors of Clean Cuts +1~
+@210  = ~Scissors are a common household item. While they weren't made for battle, in some situations they may help one defend their home.
+
+STATISTICS: 
+
+Weight: 1~
+@211  = ~These scissors are of superb quality. They fit your hand perfectly. It's hard to say if it's a matter of craftsmanship or enchantments.
+
+STATISTICS:
+
+Equipped abilities: 
+– Dexterity: +1
+– Attacks per round: +1
+
+THAC0: +5
+Damage: 1d4+1 (piercing)
+Speed Factor: 0
+Proficiency Type: Dagger
+Type: One-handed
+Requires:
+ 3 Strength
+
+Weight: 1~
+@212  = ~Barovian Flora and Fauna~
+@213  = ~Barovia is known for its beautiful forests. Many of them are rich in hardwood trees like cherry, hazelnut, beech, and oak, as well as other trees like alder, or fir.
+
+These forests are the homeland of many wild animals: bears, wolves, deer, rabbits, rats, and hedgehogs. It would be rather unusual not to encounter blackbirds like ravens or jackdaws in the land of Barovia, but many do not know the land is also home to many owls, hawks, and other birds. People may also expect to find bats in the area. These are often associated with Barovia because of some dark legends regarding these animals.
+
+Remember, adventurers, that our woods are also home to more hostile creatures: werewolves, giant spiders, and vipers. Take all necessary precautions to ensure the trip to our beautiful forests won't be your last.
+
+STATISTICS: 
+
+Weight: 1~
+@214  = ~The History of Strahd von Zarovich~
+@215  = ~Barovia is home to many men, women, animals, and creatures, but there aren't many like Strahd von Zarovich. He's also known as the Devil Strahd, The Dreadful One, and the Undead Count.
+
+Numerous tales are being told about Strahd. Some say he is responsible for Barovia's current state of misery and danger. Those bitter would also say that only he could have inspired the taste for blood in oh so many other beings, all at once.
+
+Only a few know that his parents, Barov von Zarovich and Ravenovia von Zarovich aren't his only relatives. Sergei von Zarovich and Sturm von Zarovich also left their mark on the realms, but it is Strahd that most people fear... or dream about.
+
+STATISTICS: 
+
+Weight: 1~
+@216  = ~History of Roses~
+@217  = ~This book describes many types of roses that grow in Barovia as well as other realms. It looks like it aspires to be a complete history of roses.
+
+It doesn't only provide information on the plants themselves but also contains culinary recipes that include roses and suggestions on rose-scented perfume... Furthermore, it comprises tales and nursery rhymes about roses and creatures somehow linked to those flowers.
+
+Since the book includes both real information and a work of fiction, it's hard to say which parts may be trusted and which only serve as fuel for imagination, fear, and desires.
+
+STATISTICS: 
+
+Weight: 1~
+@218  = ~History of Oraşnou~
+@219  = ~This book contains information about Oraşnou—a small hamlet located at the foot of the mountains in the land of Barovia.
+
+If the book is to be trusted, there aren't many roads or paths that lead to Oraşnou. The village is isolated from the rest of Barovia, which makes some people consider it quite... gloomy.
+
+There isn't much in this book that would help you on your journey.
+
+STATISTICS: 
+
+Weight: 1~
+@220  = ~Letter from Strahd~
+@221  = ~Dear Subject,
+
+Your dedication to your research has earned my attention and even admiration, to some extent. While our plans regarding Barovia differ, I do believe those like the Bloodjackets make the heart of Barovia beat faster. And the faster the heart beats, the better the blood tastes.
+
+I won't be visiting you anytime soon, but for all the amusements you provided, I gift you my old cloak. Let it be a token of my appreciation of our acquaintance.
+
+I do not know if your husband will survive, but... it does not matter much, Evemorî Ernica-Bloodjacket. At least the two of you served as an inspiration to one another.
+
+If he dies... make sure it wasn't for nothing. Let his passing be the beginning of something great. While I will not be there to observe what you make of it, I have a feeling you will come up with something grand.
+
+With most vivid regards,
+Strahd von Zarovich~
+@222  = ~Ritual Bowl~
+@223  = ~The writing by the edge of this unusual bowl states: "When I rest in the cradle of my altar, I wait for Her blood: feed me with my Mistress's scarlet drops, and I shall lead you through the dark."
+
+STATISTICS:
+
+Weight: 1~
+@224  = ~Studded Leather Armor~
+@225  = ~Vallakian Shadow +3~
+@226  = ~This studded leather armor was found in Vallaki, a village in Barovia. Supposedly, it was inspired by a different armor, one left behind by a visitor from outside the Realms of Dread, and discovered by his corpse. Apparently, a hag marked this armor with mysterious symbols and color patterns.
+
+STATISTICS:
+
+Equipped abilities:
+– Hide In Shadows: +10%
+– Off-Hand THAC0 bonus: +1
+
+Armor Class: 4 (2 vs. slashing, 3 vs. piercing and missile)
+Requires:
+ 6 Strength
+
+Weight: 8~
+@227  = ~Exquisite Key~
+@228  = ~This beautiful key must open something in the Bloodjacket Mansion.
+
+STATISTICS:
+
+Weight: 0~
+@229  = ~Wedding Ring~
+@230  = ~Lady Bloodjacket's Wedding Ring~
+@231  = ~This wedding ring used to belong to Lady Bloodjacket, a powerful scholar from Barovia.
+
+STATISTICS:
+
+Equipped abilities:
+– Charisma: +1
+
+Weight: 1~
+@232  = ~Potion~
+@233  = ~Hearthy Porridge~
+@234  = ~This porridge is a gift from the farmer you saved in Barovia. It looks like it was cooked with some powerful honey. Luckily, it was nothing like the necrotic one, but rather resembling sweet ambrosia.
+
+STATISTICS:
+
+Special: Gains permanent +2 to Saving Throws vs. Death
+
+Weight: 1~
+@235  = ~Barovian Crossroads~
+@236  = ~Well~
+@237  = ~Clearing~
+@238  = ~Farm~
+@239  = ~Bloodjacket Mansion~
+@240  = ~Forest Path~
+@241  = ~Dark Grove~
+@242  = ~Blocked Path~
+@243  = ~Vîchîar Pond~
+@244  = ~Dead Blacksmith's Home~
+@245  = ~What a wonderful belt. Its magic feels... familiar. We should use it well, <CHARNAME>.~
+@246  = ~The previously inaccessible passage is now open.~
+@247  = ~You can hear buzzing coming from underground.~
+@248  = ~(The portal brought you back to the tomb at the Athkatla Graveyard. You managed to return from Barovia of Ravenloft.)~
+@249  = ~Just look how beautiful it is!~ [L#RVNEC1]
+@250  = ~Wait... what is that buzzing?~ [L#RVNEC2]
+@251  = ~Get them off me!~ [L#RVNEC3]
+@252  = ~Aaaaaa!~ [L#RVNEC4]
+@253  = ~(Even though the necromancer fell lifelessly onto the ground, the portal he opened remains in place, with blood-red energy swirling inside it.)~
+@254  = ~The room starts to shake, but it calms down after a while. It looks like the sarcophagus is now open.~
+@255  = ~** You're here to take what is mine? You shall get nothing, and my treasure shall remain locked away from your kind! **~
+@256  = ~The vampire is inside. If you have a wooden stake, you may be able to kill him once and for all.~
+@257  = ~You pierce the vampire's heart with the stake.~
+@258  = ~I'm unsure if we really had to fight that vampire... But it's done.~
+@259  = ~You need a wooden stake to kill the vampire.~
+@260  = ~The vampire is already dead.~
+@261  = ~NO!!! You will pay for this!~
+@262  = ~Woman~
+@263  = ~(The insects send out signals and call another swarm.)~
+@264  = ~Something seems to stick out from under the rose vines. Someone with proper strength or sleight of hand may be able to deal with the vines and uncover it.~
+@265  = ~After a while, you reveal what was under the rose vines. It's a face. You may try to talk to it.~
+@266  = ~(The vampire pretends to have escaped, but he most likely returned to his coffin.)~
+@267  = ~It looks like the rope was taken away or fell down the well somehow.~
+@268  = ~You can fix the well now. Perhaps, if the wood is solid and rope strong, you will be able to go down into the well.~
+@269  = ~It all looks solid.~
+@270  = ~The child's spirit has left you—you've lost the ability to call her.~
+@271  = ~"Day is over, night prevails,
+Face the truth and all it entails."~
+
+

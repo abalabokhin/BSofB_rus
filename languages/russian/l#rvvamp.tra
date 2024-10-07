@@ -1,0 +1,46 @@
+@0    = ~Ah, welcome, welcome! Who would have thought I would have visitors today... or is it tonight? It's hard to tell underground. And in Barovia in general.~ [L#RVVAM1]
+@1    = ~But worry not, I just had a snack. Fine doe blood. I enjoy venison quite a bit.~ [L#RVVAM2]
+@2    = ~You won't trick me, vampire! Luckily, I'm well-versed in killing monsters! Prepare to die again!~
+@3    = ~A vampire that chooses a civil conversation over attempts to feast on me? Well, that's new. Especially considering my appetizing looks.~
+@4    = ~I'm not used to talking to the undead, but it's been a long <DAYNIGHT>, so I suppose we can lower our weapons. And claws.~
+@5    = ~Believe me, there's always enough game around. Blood of those like you is tasty, yes, but I must say I got used to deer blood or that of rabbits and boars. Foxes and crows aren't that bad either. Birds can be tricky, though, unless you enjoy being tickled with feathers.~ [L#RVVAM3]
+@6    = ~Let me introduce myself. I am Sjerhan Povlac. A vampire and an avid goods collector. I used to be a merchant, but Barovia isn't a prime spot for business. Having a lair on the bottom of an old well doesn't help either. I'm glad, however, that I found this space. It's quite cozy. And quiet.~
+@7    = ~You're not from around here, are you?~
+@8    = ~No, I'm not.~
+@9    = ~What are you talking about? I've lived here my entire life, just... never entered this well before.~
+@10   = ~It's rather obvious.~
+@11   = ~Ah, so that's the game we're playing? Fine. I can do that, too.~
+@12   = ~I'm surprised you found your way down here. The last person that dropped by—simply put, he fell down the well and died on the spot. Poor fella hit the edge of the rock.~
+@13   = ~Perhaps I should remove the body, clean up a bit. But... I guess there are better topics to discuss.~
+@14   = ~You don't want to kill me. Does this make you a... good vampire?~
+@15   = ~You said you were a merchant and a collector. Perhaps you'd like to trade?~
+@16   = ~You know what? I think there are already too many monsters in Barovia. I'll make sure there's at least one less!~
+@17   = ~What can you tell me about this part of Barovia, Sjerhan?~
+@18   = ~It was nice talking to you, but I need to go. Goodbye!~
+@19   = ~Hah! Well, the concept of good and evil is so boring. I'm just full. And you seem like a decent interlocutor. I do not kill for sport.~
+@20   = ~I can't imagine how bored I would have to be to do that.~
+@21   = ~Wait, you said you were a merchant once. Perhaps you'd like to trade?~
+@22   = ~I think there are already too many monsters in Barovia. I'll make sure there's at least one less!~
+@23   = ~What can you tell me about this part of Barovia, vampire?~
+@24   = ~It was nice talking to you. I need to go, though. Goodbye!~
+@25   = ~Oh! That sounds like fun. Let's see if I'm still good at this.~ [L#RVVAM4]
+@26   = ~I'm not sure if there is much to tell. We're north of the Village of Barovia. If you enjoy long walks, you could normally take one to Oraşnou, but the mist has been denser lately and the place has become infested with all sorts of dangerous creatures, so I suppose you're a prisoner of the mist now.~
+@27   = ~You won't find many people around. There's the farmer with his few cows and this... mansion. But I don't go there. Those people seem strange. Even by my standards. Hmm, I think that man who fell into the well was their servant—who knows, perhaps they will now starve without his aid, haha! Posh people are always so helpless, don't you think?~
+@28   = ~What else... I suppose you may encounter many animals, werewolves, bugs, or mosquitoes, but those aren't really interested in me, little bloodsuckers. I'm not the sort of food they want.~
+@29   = ~I don't know much more.~
+@30   = ~You don't want to kill me. Are you a good vampire?~
+@31   = ~You said you collect things. Perhaps you'd like to trade?~
+@32   = ~I changed my mind—I'll kill you after all! You told me everything you know anyway.~
+@33   = ~It was nice talking to you, but I need to go. Goodbye, Sjerhan.~
+@34   = ~Welcome back, mortal! Is there something you need or did you simply miss me?~ [L#RVVAM5]
+@35   = ~It looks like you don't want to kill me. Does this make you a... good vampire?~
+@36   = ~You said you were a merchant and a collector. Perhaps you'd like to trade?~
+@37   = ~Oh, Sjerhan... I think there are already too many monsters in Barovia. I'll make sure there's at least one less!~
+@38   = ~What can you tell me about this part of Barovia? I'm all ears.~
+@39   = ~I found this locket here. Did you kill its owner?~
+@40   = ~It was nice talking to you, but I need to go. Goodbye. Stay... safe, I guess.~
+@41   = ~No. I found it above my lair. I never knew this man nor his brother.~ [L#RVVAM6]
+@42   = ~You can keep it. It's of little use to me.~ [L#RVVAM7]
+
+
+
